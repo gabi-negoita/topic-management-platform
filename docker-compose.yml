@@ -1,0 +1,17 @@
+version: '3.8'
+
+networks:
+  default:
+
+services:
+  db:
+    image: mysql:latest
+    container_name: mtapo-db
+    ports:
+      - "3366:3306"
+      # Port 3366 is used in case the default 3306 port is unavailable
+    volumes:
+      - "./.data/db:/var/lib/mysql"
+    environment:
+      MYSQL_ROOT_PASSWORD: pass
+      MYSQL_DATABASE: mtapo
