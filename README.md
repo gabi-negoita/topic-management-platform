@@ -43,6 +43,7 @@
 If the connection is **successful**, a database/schema named **mtapo-db** should be visible and accessible.
 
 ---
+
 ### Build & Run the application
 
 **You can skip these steps if you are using an IDE (e.g.: IntelliJ) in which you can build and run the application.**
@@ -77,6 +78,8 @@ If the connection is **successful**, a database/schema named **mtapo-db** should
 	This command will run the application that can be accessed at: `http://localhost:8888`. 
 
 	The port is the application runs at is **8888** and can be configured in the `src/main/resources/application.properties` file.
+
+---
 
 ### Application screenshots
 
@@ -131,6 +134,8 @@ If the connection is **successful**, a database/schema named **mtapo-db** should
 ![Error page | 403 code](https://github.com/gabi-negoita/topic-management-platform/blob/main/screenshots/error-page-403.jpeg?raw=true)
 
 ![Error page | 404 code](https://github.com/gabi-negoita/topic-management-platform/blob/main/screenshots/error-page-404.jpeg?raw=true)
+
+---
 
 ## Contributors
 
