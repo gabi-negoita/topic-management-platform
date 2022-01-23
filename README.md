@@ -78,6 +78,60 @@ If the connection is **successful**, a database/schema named **mtapo-db** should
 
 	The port is the application runs at is **8888** and can be configured in the `src/main/resources/application.properties` file.
 
+### Application screenshots
+
+![Home page](https://github.com/gabi-negoita/topic-management-platform/blob/main/screenshots/home-page.jpeg?raw=true)
+
+![Home page | Menu search](https://github.com/gabi-negoita/topic-management-platform/blob/main/screenshots/home-page-menu-search.jpeg?raw=true)
+
+![Home page | Notifications inbox](https://github.com/gabi-negoita/topic-management-platform/blob/main/screenshots/home-page-notifications-inbox.jpeg?raw=true)
+
+![Home Page | Notifications popup](https://github.com/gabi-negoita/topic-management-platform/blob/main/screenshots/home-page-notifications-popup.jpeg?raw=true)
+
+![Topics page](https://github.com/gabi-negoita/topic-management-platform/blob/main/screenshots/topics-page.jpeg?raw=true)
+
+![Topic page](https://github.com/gabi-negoita/topic-management-platform/blob/main/screenshots/topic-page.jpeg?raw=true)
+
+![Topic page | Edit comment](https://github.com/gabi-negoita/topic-management-platform/blob/main/screenshots/topic-page-edit-comment.jpeg?raw=true)
+
+![Topic page | Delete comment](https://github.com/gabi-negoita/topic-management-platform/blob/main/screenshots/topic-page-delete-comment.jpeg?raw=true)
+
+![Topic page | Application request](https://github.com/gabi-negoita/topic-management-platform/blob/main/screenshots/topic-page-application-request.jpeg?raw=true)
+
+![Topic page | Cancel request](https://github.com/gabi-negoita/topic-management-platform/blob/main/screenshots/topic-page-cancel-request.jpeg?raw=true)
+
+![Topic page | Cancel topic application](https://github.com/gabi-negoita/topic-management-platform/blob/main/screenshots/topic-page-cancel-topic-application.jpeg?raw=true)
+
+![Activity page](https://github.com/gabi-negoita/topic-management-platform/blob/main/screenshots/activity-page.jpeg?raw=true)
+
+![Uploaded topics page](https://github.com/gabi-negoita/topic-management-platform/blob/main/screenshots/uploaded-topics-page.jpeg?raw=true)
+
+![Uploaded topics page | Remove student](https://github.com/gabi-negoita/topic-management-platform/blob/main/screenshots/uploaded-topics-page-remove-student.jpeg?raw=true)
+
+![Uploaded topics page | Edit topic](https://github.com/gabi-negoita/topic-management-platform/blob/main/screenshots/uploaded-topics-page-edit-topic.jpeg?raw=true)
+
+![Uploaded topics page | Delete topic](https://github.com/gabi-negoita/topic-management-platform/blob/main/screenshots/uploaded-topics-page-delete-topic.jpeg?raw=true)
+
+![Uploaded topics page | Create topic](https://github.com/gabi-negoita/topic-management-platform/blob/main/screenshots/uploaded-topics-page-create-topic.jpeg?raw=true)
+
+![Topic requests page](https://github.com/gabi-negoita/topic-management-platform/blob/main/screenshots/topic-requests-page.jpeg?raw=true)
+
+![Topic requests page | Approve request](https://github.com/gabi-negoita/topic-management-platform/blob/main/screenshots/topic-requests-page-approve-request.jpeg?raw=true)
+
+![Topic requests page | Decline request](https://github.com/gabi-negoita/topic-management-platform/blob/main/screenshots/topic-requests-page-decline-request.jpeg?raw=true)
+
+![Users page](https://github.com/gabi-negoita/topic-management-platform/blob/main/screenshots/users-page.jpeg?raw=true)
+
+![Users page | Change roles](https://github.com/gabi-negoita/topic-management-platform/blob/main/screenshots/users-page-change-user-role.jpeg?raw=true)
+
+![Logs page](https://github.com/gabi-negoita/topic-management-platform/blob/main/screenshots/logs-page.jpeg?raw=true)
+
+![Error page | 400 code](https://github.com/gabi-negoita/topic-management-platform/blob/main/screenshots/error-page-400.jpeg?raw=true)
+
+![Error page | 403 code](https://github.com/gabi-negoita/topic-management-platform/blob/main/screenshots/error-page-403.jpeg?raw=true)
+
+![Error page | 404 code](https://github.com/gabi-negoita/topic-management-platform/blob/main/screenshots/error-page-404.jpeg?raw=true)
+
 ## Contributors
 
  - [**Adam-Papadatu Ionut Cristian**](https://github.com/TPzChris)
