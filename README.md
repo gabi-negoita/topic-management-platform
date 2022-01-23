@@ -1,5 +1,5 @@
 
-# Platforma pentru alegerea temelor de licenta/disertatie
+# License/Master topics assignment and management platform
 
 ## How to use
 
